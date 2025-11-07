@@ -1,6 +1,6 @@
 # FDA22 — Real-Time Competitor Analysis System
 
-This repository contains the **Forensic Data Analytics (FDA22)** project developed to demonstrate how **version control**, **AI**, and **data analytics** can be integrated to build a real-time **Competitor Analysis System**.
+This repository contains the **Foundation of Data Analytics** project developed to demonstrate how **version control**, **AI**, and **data analytics** can be integrated to build a real-time **Competitor Analysis System**.
 
 The project uses **Streamlit**, **Cohere API**, **NewsAPI**, and **Twitter API** to analyze companies dynamically, identify real competitors, and generate live **SWOT (Strengths, Weaknesses, Opportunities, Threats)** insights based on online data.
 
@@ -11,17 +11,13 @@ The project uses **Streamlit**, **Cohere API**, **NewsAPI**, and **Twitter API**
 Conventional competitor analysis tools rely on static or manually curated data.  
 This project transforms that process into a **dynamic, AI-driven system** that collects real-time data from news, social media, and APIs to perform intelligent market assessments.
 
-Using version control (Git and GitHub), the entire analytics workflow is tracked — from code updates to dataset versioning — ensuring **reproducibility** and **collaboration**.
-
 ---
 
 ## 🎯 Objectives
-
-- To demonstrate the role of **version control** in managing a data analytics workflow.  
+  
 - To develop an **AI-enabled real-time competitor analysis system**.  
 - To automatically identify a company’s **industry** and **real competitors**.  
-- To analyze live market data to produce dynamic **SWOT analysis** reports.  
-- To maintain the project through structured commits and GitHub synchronization.
+- To analyze live market data to produce dynamic **SWOT analysis** reports. 
 
 ---
 
@@ -114,12 +110,10 @@ fda22/
 
 ## 📈 Learning Outcomes
 
-Through this project, I learned to:
-- Use **Git and GitHub** for structured, reproducible analytics workflows.  
+Through this project, I learned to: 
 - Integrate multiple APIs into a **real-time data pipeline**.  
 - Apply **AI-based text embedding** and **cosine similarity** for contextual analysis.  
 - Build an interactive **Streamlit dashboard** for business insights.  
-- Manage collaboration and version control using **commits and branches** effectively.
 
 ---
 
@@ -135,5 +129,5 @@ VIT Chennai
 ## 🗂️ License
 
 This project was developed for academic purposes as part of the  
-**Foundation of Data Analytics (FDA22)** coursework at **VIT Chennai**.  
+**Foundation of Data Analytics** coursework at **VIT Chennai**.  
 All datasets and APIs are used for educational and research demonstrations only.
